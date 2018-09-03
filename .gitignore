@@ -1,0 +1,7 @@
+/node_modules
+/dist
+/es6
+/src
+/.babelrc
+/.bowerrc
+/package-lock.json
